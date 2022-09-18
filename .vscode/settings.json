@@ -1,5 +1,12 @@
 {
-  "cSpell.words": ["esnext"],
+  "cSpell.words": [
+    "Cantarell",
+    "esnext",
+    "fullscreen",
+    "Neue",
+    "Roboto",
+    "Segoe"
+  ],
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
